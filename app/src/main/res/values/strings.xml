@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RickMastersTestQuest</string>
+    
+    <string name="app_topbar">Мой дом</string>
+    <string name="app_cameras_topbar_tab">Камеры</string>
+    <string name="app_doors_topbar_tab">Двери</string>
+    <string name="alert_dialog_title">Новое название</string>
+    <string name="alert_dialog_save">Сохранить</string>
+</resources>
